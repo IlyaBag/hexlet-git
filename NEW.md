@@ -1,2 +1,0 @@
-PEOPLE.md
-README.md
